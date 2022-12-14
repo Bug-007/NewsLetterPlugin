@@ -35,4 +35,4 @@ npm run dev
 
 ## Screenshots
 
-![App Screenshot](https://postimg.cc/BXr4tXC8)
+![App Screenshot](./Screenshots/Image1.jpg)
