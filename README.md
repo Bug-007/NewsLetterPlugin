@@ -3,6 +3,9 @@
 
 This plugin can be embedded into any website. It helps the user run thier own NewsLetter.
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-chaurasia/)
+
 ## Tech Stack
 
 **Client:** React, Redux, CSS
@@ -18,7 +21,6 @@ This plugin can be embedded into any website. It helps the user run thier own Ne
 - Easy to use. User does not need to struggle with several components to run his Newsletter.
 - Cross platform
 
-
 ##  Deployment
 Open the project in VS code than use 
 ``` bash
@@ -30,10 +32,6 @@ to run the frontend. And to run backend use
 cd backend
 npm run dev
 ```
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-chaurasia/)
 
 ## Screenshots
 
