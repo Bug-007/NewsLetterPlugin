@@ -3,7 +3,13 @@
 
 This plugin can be embedded into any website. It helps the user run thier own NewsLetter.
 
+## Tech Stack
 
+**Client:** React, Redux, CSS
+
+**Server:** Node JS, Express
+
+**Database:** Mongo DB Atlas
 
 ## Features
 
@@ -24,13 +30,6 @@ to run the frontend. And to run backend use
 cd backend
 npm run dev
 ```
-## Tech Stack
-
-**Client:** React, Redux, CSS
-
-**Server:** Node JS, Express
-
-**Database:** Mongo DB
 
 
 ## 🔗 Links
