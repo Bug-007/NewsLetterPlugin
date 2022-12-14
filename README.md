@@ -35,4 +35,4 @@ npm run dev
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Bug-007/NewsLetterPlugin/blob/main/Screenshots/Image1.jpg)
+![App Screenshot](./Screenshots/Image1.jpg)
