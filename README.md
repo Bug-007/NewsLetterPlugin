@@ -22,7 +22,7 @@ This plugin can be embedded into any website. It helps the user run thier own Ne
 - Cross platform
 
 ##  Deployment
-Open the project in VS code than use to run the frontend.
+Open the project in VS code than use command below to run the frontend.
 ``` bash
 cd frontend
 npm start
