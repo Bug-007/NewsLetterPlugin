@@ -35,4 +35,4 @@ npm run dev
 
 ## Screenshots
 
-![App Screenshot](./Screenshots/Image1.png)
+![App Screenshot](./Screenshots/image.png)
