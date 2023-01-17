@@ -35,4 +35,4 @@ npm run dev
 
 ## Screenshots
 
-![App Screenshot](./Screenshots/image.png)
+![App Screenshot](https://ibb.co/yWxzqGJ)
