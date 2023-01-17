@@ -32,3 +32,7 @@ And to run backend use
 cd backend
 npm run dev
 ```
+
+##Screenshots
+
+![1](https://user-images.githubusercontent.com/28038902/212823318-95e8b2e3-6585-44ae-a9bb-ed420c010ea9.JPG)
